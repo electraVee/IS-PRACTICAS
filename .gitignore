@@ -1,0 +1,5 @@
+#ignore archivos compilados y ejecutables
+*.exe
+*.o
+*.out
+*.app
