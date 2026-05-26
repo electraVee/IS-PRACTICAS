@@ -1,2 +1,2 @@
 # IS-PRACTICAS
-> Práctica inicial de Ingeniería de Software
+> Prácticas de Ingeniería de Software 1-2026
